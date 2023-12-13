@@ -8,7 +8,7 @@ margin_left = 50
 margin_bottom = 50
 
 arcade.open_window(500, 500, "Complex Loops - Box")
-arcade.set_background_color(arcade.color.GRAY)
+arcade.set_background_color(arcade.color.WHITE)
 arcade.start_render()
 
 for row in range(10):
