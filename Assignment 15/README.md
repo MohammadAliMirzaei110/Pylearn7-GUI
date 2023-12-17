@@ -16,4 +16,4 @@ Game over modes:
 1. Snake get out of the window
 2. The player's score becomes zero
 
-[![Interstellar game](ScreenShot.png)]
+![Interstellar game](ScreenShot.png)
