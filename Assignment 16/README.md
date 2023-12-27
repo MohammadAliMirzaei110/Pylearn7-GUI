@@ -9,5 +9,5 @@
 
 
 
-![pong game](pong\pong.png)
+![pong game](Assignment 16\pong\pong.png)
 ![breakout game](breakout\breakout.png)
