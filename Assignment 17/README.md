@@ -9,4 +9,4 @@
 
 
 
-![calculator](Screenshot.PNG)
+![calculator](Screenshot.png)
