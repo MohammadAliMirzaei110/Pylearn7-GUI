@@ -12,7 +12,7 @@
 ## DB practice
 ### In this practice i made a database using SQLite for a wwebsite like digikala and use 4 main operators (Create Read Update Delete) by sql orders
 
-![insert into db](DB\Insert.png)
+![insert into db](DB/Insert.png)
 ![update db](DB/Update.png)
 ![select db](DB/Select.png)
 ![delete from db](DB/Delete.png)
